@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Talk is cheap show me the code]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://quitzc.com/"/>
-  <updated>2014-08-13T09:55:30.888Z</updated>
+  <updated>2014-08-13T10:08:11.039Z</updated>
   <id>http://quitzc.com/</id>
   
   <author>
@@ -120,7 +120,7 @@
     <link href="http://quitzc.com/2014/08/07/python%E7%88%AC%E8%99%AB/"/>
     <id>http://quitzc.com/2014/08/07/python爬虫/</id>
     <published>2014-08-07T02:59:47.000Z</published>
-    <updated>2014-08-13T09:50:42.000Z</updated>
+    <updated>2014-08-13T10:07:55.000Z</updated>
     <content type="html"><![CDATA[<p>最近在实验室实习，闲来无事学起了Python，看完了一些教程之后就开始动手写了一些爬虫代码，觉得很有意思，发上来和大家分享一下。<a id="more"></a><br>这个爬虫的功能就是爬取淘宝MM的图片，代码如下：</p>
 <pre><code><span class="keyword">import</span> urllib2
 <span class="keyword">import</span> urllib
@@ -182,6 +182,8 @@ i = <span class="number">1</span>
 <p>写的时候还算顺利，不过在一个地方卡住了半天，原因是因为字符匹配的时候出了点小的问题，在浏览完网页源码之后顺利解决了问题。<br>不过自己差的还很多，要继续努力学习。</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>最近在实验室实习，闲来无事学起了Python，看完了一些教程之后就开始动手写了一些爬虫代码，觉得很有意思，发上来和大家分享一下。]]></summary>
+    
+      <category term="python" scheme="http://quitzc.com/tags/python/"/>
     
       <category term="爬虫" scheme="http://quitzc.com/tags/%E7%88%AC%E8%99%AB/"/>
     
